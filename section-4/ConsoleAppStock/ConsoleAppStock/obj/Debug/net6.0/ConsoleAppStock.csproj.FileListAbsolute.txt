@@ -1,0 +1,14 @@
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\bin\Debug\net6.0\ConsoleAppStock.exe
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\bin\Debug\net6.0\ConsoleAppStock.deps.json
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\bin\Debug\net6.0\ConsoleAppStock.runtimeconfig.json
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\bin\Debug\net6.0\ConsoleAppStock.dll
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\bin\Debug\net6.0\ConsoleAppStock.pdb
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\obj\Debug\net6.0\ConsoleAppStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\obj\Debug\net6.0\ConsoleAppStock.AssemblyInfoInputs.cache
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\obj\Debug\net6.0\ConsoleAppStock.AssemblyInfo.cs
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\obj\Debug\net6.0\ConsoleAppStock.csproj.CoreCompileInputs.cache
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\obj\Debug\net6.0\ConsoleAppStock.dll
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\obj\Debug\net6.0\refint\ConsoleAppStock.dll
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\obj\Debug\net6.0\ConsoleAppStock.pdb
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\obj\Debug\net6.0\ConsoleAppStock.genruntimeconfig.cache
+C:\Users\everton.oliveira\Documents\CSharp\section-4\ConsoleAppStock\ConsoleAppStock\obj\Debug\net6.0\ref\ConsoleAppStock.dll
