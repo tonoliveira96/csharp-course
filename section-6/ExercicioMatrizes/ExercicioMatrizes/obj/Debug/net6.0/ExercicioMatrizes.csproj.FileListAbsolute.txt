@@ -1,0 +1,14 @@
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.exe
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.deps.json
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.runtimeconfig.json
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.dll
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net6.0\ExercicioMatrizes.pdb
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.AssemblyInfoInputs.cache
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.AssemblyInfo.cs
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.dll
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\refint\ExercicioMatrizes.dll
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.pdb
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ExercicioMatrizes.genruntimeconfig.cache
+C:\Users\everton.oliveira\Documents\CSharp\section-6\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net6.0\ref\ExercicioMatrizes.dll
