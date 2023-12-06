@@ -1,0 +1,14 @@
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\bin\Debug\net6.0\ConsoleStringBuilder.exe
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\bin\Debug\net6.0\ConsoleStringBuilder.deps.json
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\bin\Debug\net6.0\ConsoleStringBuilder.runtimeconfig.json
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\bin\Debug\net6.0\ConsoleStringBuilder.dll
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\bin\Debug\net6.0\ConsoleStringBuilder.pdb
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\obj\Debug\net6.0\ConsoleStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\obj\Debug\net6.0\ConsoleStringBuilder.AssemblyInfoInputs.cache
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\obj\Debug\net6.0\ConsoleStringBuilder.AssemblyInfo.cs
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\obj\Debug\net6.0\ConsoleStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\obj\Debug\net6.0\ConsoleStringBuilder.dll
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\obj\Debug\net6.0\refint\ConsoleStringBuilder.dll
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\obj\Debug\net6.0\ConsoleStringBuilder.pdb
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\obj\Debug\net6.0\ConsoleStringBuilder.genruntimeconfig.cache
+C:\Users\everton.oliveira\Documents\CSharp\section-9\ConsoleStringBuilder\ConsoleStringBuilder\obj\Debug\net6.0\ref\ConsoleStringBuilder.dll
