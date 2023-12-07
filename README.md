@@ -11,3 +11,4 @@ Curso completo de C# e OO, coleções, UML, ASP.NET, Entity Framework, LINQ, Lam
 - Seção 7: Tópicos especiais em C# - PARTE 1
 - Seção 8: Bônus: nivelamento Git e Github
 - [Seção 9: Enumerações e composiçãos](https://github.com/tonoliveira96/csharp-course/tree/main/section-9/)
+- [Seção 10: Herança e polimorfismo](https://github.com/tonoliveira96/csharp-course/tree/main/section-10/)
