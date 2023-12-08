@@ -1,0 +1,14 @@
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\bin\Debug\net6.0\ConsoleExercicio1.exe
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\bin\Debug\net6.0\ConsoleExercicio1.deps.json
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\bin\Debug\net6.0\ConsoleExercicio1.runtimeconfig.json
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\bin\Debug\net6.0\ConsoleExercicio1.dll
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\bin\Debug\net6.0\ConsoleExercicio1.pdb
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\obj\Debug\net6.0\ConsoleExercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\obj\Debug\net6.0\ConsoleExercicio1.AssemblyInfoInputs.cache
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\obj\Debug\net6.0\ConsoleExercicio1.AssemblyInfo.cs
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\obj\Debug\net6.0\ConsoleExercicio1.csproj.CoreCompileInputs.cache
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\obj\Debug\net6.0\ConsoleExercicio1.dll
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\obj\Debug\net6.0\refint\ConsoleExercicio1.dll
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\obj\Debug\net6.0\ConsoleExercicio1.pdb
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\obj\Debug\net6.0\ConsoleExercicio1.genruntimeconfig.cache
+C:\Users\everton.oliveira\Documents\CSharp\section-11\ConsoleExercicio1\ConsoleExercicio1\obj\Debug\net6.0\ref\ConsoleExercicio1.dll

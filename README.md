@@ -12,3 +12,4 @@ Curso completo de C# e OO, coleções, UML, ASP.NET, Entity Framework, LINQ, Lam
 - Seção 8: Bônus: nivelamento Git e Github
 - [Seção 9: Enumerações e composiçãos](https://github.com/tonoliveira96/csharp-course/tree/main/section-09/)
 - [Seção 10: Herança e polimorfismo](https://github.com/tonoliveira96/csharp-course/tree/main/section-10/)
+- [Seção 11: Tratamento de exceções](https://github.com/tonoliveira96/csharp-course/tree/main/section-11/)
