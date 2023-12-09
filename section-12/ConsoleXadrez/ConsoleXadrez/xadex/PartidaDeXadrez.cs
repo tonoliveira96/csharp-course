@@ -1,6 +1,4 @@
 ﻿using ConsoleXadrez.tabuleiro;
-using Microsoft.Win32.SafeHandles;
-using System;
 
 namespace xadex
 {
