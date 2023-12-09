@@ -14,9 +14,9 @@ namespace xadex
             this.linha = linha;
         }
 
-        public Posicao toposicao()
+        public Posicao toPosicao()
         {
-            return new Posicao(coluna - 'a', 8 - linha);
+            return new Posicao(8 - linha, coluna - 'a');
         }
 
         public override string ToString()
