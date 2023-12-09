@@ -13,10 +13,11 @@ namespace ConsoleXadrez
 
                 tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
                 tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
-                tab.colocarPeca(new Rei(tab, Cor.Preta), new Posicao(1, 3));
+                tab.colocarPeca(new Rei(tab, Cor.Branca), new Posicao(5, 1));
 
                 Tela.imprimirTabuleiro(tab);
-            }catch (Exception e)
+            }
+            catch (Exception e)
             {
                 Console.WriteLine(e.Message);
             }
