@@ -13,3 +13,5 @@ Curso completo de C# e OO, coleções, UML, ASP.NET, Entity Framework, LINQ, Lam
 - [Seção 9: Enumerações e composiçãos](https://github.com/tonoliveira96/csharp-course/tree/main/section-09/)
 - [Seção 10: Herança e polimorfismo](https://github.com/tonoliveira96/csharp-course/tree/main/section-10/)
 - [Seção 11: Tratamento de exceções](https://github.com/tonoliveira96/csharp-course/tree/main/section-11/)
+- [Seção 12: Projeto: Sistema de jogo de xadrez](https://github.com/tonoliveira96/csharp-course/tree/main/section-12/)
+- [Seção 13: Trabalhando com arquivos]((https://github.com/tonoliveira96/csharp-course/tree/main/section-13/))
