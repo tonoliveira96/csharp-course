@@ -23,7 +23,7 @@ namespace ConsoleInterface
 
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
 
-            RentalServices rentalService = new RentalServices(hour, day);
+            RentalServices rentalService = new RentalServices(hour, day, new BrazilTaxServices());
 
             rentalService.ProcessInvoice(carRental);
 
