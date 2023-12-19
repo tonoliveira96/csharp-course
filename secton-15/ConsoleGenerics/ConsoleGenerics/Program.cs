@@ -1,22 +1,31 @@
-﻿namespace ConsoleGenerics
+﻿using ConsoleGenerics.Entities;
+using ConsoleGenerics.Services;
+using System.Globalization;
+
+namespace ConsoleGenerics
 {
     class Program
     {
         static void Main(string[] args)
 
         {
-            PrintService<int> printService = new PrintService<int>();
-            Console.Write("Quantos valores vc vai digitar:");
+            PrintService<Product> printService = new PrintService<Product>();
+            Console.Write("Quantos valores você vai digitar: ");
             int n = int.Parse(Console.ReadLine());
+            List<Product> list = new List<Product>();
 
             for (int i = 0; i < n; i++)
             {
-                int x = int.Parse(Console.ReadLine());
-                printService.AddValue(x);
+                string[] vect = Console.ReadLine().Split(",");
+                string name = vect[0];
+                double price = double.Parse(vect[1], CultureInfo.InvariantCulture);
+                
+                list.Add(new Product(name, price));
             }
+            CalculationService calculationService = new CalculationService();
+            Product max = calculationService.Max(list);
 
-            printService.Print();
-            Console.WriteLine("Primeiro" + printService.First());
+            Console.WriteLine("Primeiro: " + max);
         }
     }
 }
