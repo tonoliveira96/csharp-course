@@ -15,3 +15,5 @@ Curso completo de C# e OO, coleções, UML, ASP.NET, Entity Framework, LINQ, Lam
 - [Seção 11: Tratamento de exceções](https://github.com/tonoliveira96/csharp-course/tree/main/section-11/)
 - [Seção 12: Projeto: Sistema de jogo de xadrez](https://github.com/tonoliveira96/csharp-course/tree/main/section-12/)
 - [Seção 13: Trabalhando com arquivos]((https://github.com/tonoliveira96/csharp-course/tree/main/section-13/))
+- [Seção 14: Interfaces]((https://github.com/tonoliveira96/csharp-course/tree/main/section-14/))
+- [Seção 15: Generics, Set, Dictionary]((https://github.com/tonoliveira96/csharp-course/tree/main/section-15/))
