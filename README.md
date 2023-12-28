@@ -19,3 +19,4 @@ Curso completo de C# e OO, coleções, UML, ASP.NET, Entity Framework, LINQ, Lam
 - [Seção 15: Generics, Set, Dictionary]((https://github.com/tonoliveira96/csharp-course/tree/main/section-15/))
 - [Seção 16: Tópicos especiais em C# - PARTE 2]((https://github.com/tonoliveira96/csharp-course/tree/main/section-16/))
 - [Seção 17: Expressões lambda, delegates, LINQ]((https://github.com/tonoliveira96/csharp-course/tree/main/section-17/))
+- [Seção 18: Projeto: Sistema Web com ASP.NET Core MVC e Entity Framework]((https://github.com/tonoliveira96/csharp-course/tree/main/section-18/))
