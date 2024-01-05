@@ -159,3 +159,4 @@ C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\ob
 C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\MySqlConnector.dll
 C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sallers\Index.cshtml.g.cs
