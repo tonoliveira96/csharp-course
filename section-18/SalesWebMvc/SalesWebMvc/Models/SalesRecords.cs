@@ -10,15 +10,15 @@ namespace SalesWebMvc.Models
         public DateTime Date { get; set; }
         public double Amount { get; set; }
         public SaleStatus Status { get; set; }
-        public Seller Saller { get; set; }
+        public Seller Seller { get; set; }
 
-        public SalesRecords(int id, DateTime date, double amount, SaleStatus status, Seller saller)
+        public SalesRecords(int id, DateTime date, double amount, SaleStatus status, Seller seller)
         {
             Id = id;
             Date = date;
             Amount = amount;
             Status = status;
-            Saller = saller;
+            Seller = seller;
         }
 
         public SalesRecords() { }

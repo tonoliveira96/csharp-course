@@ -165,3 +165,6 @@ C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\ob
 C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sallers\Delete.cshtml.g.cs
 C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sallers\Details.cshtml.g.cs
 C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sallers\Edit.cshtml.g.cs
+C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
