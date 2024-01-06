@@ -163,3 +163,4 @@ C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\ob
 C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sallers\Create.cshtml.g.cs
 C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.sourcelink.json
 C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sallers\Delete.cshtml.g.cs
+C:\Users\everton.oliveira\Documents\CSharp\section-18\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sallers\Details.cshtml.g.cs
