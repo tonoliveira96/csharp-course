@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace SalesWebMvc.Models
 {
-    public class SalesRecords
+    public class SalesRecord
     {
 
         public int Id { get; set; }
@@ -16,7 +16,7 @@ namespace SalesWebMvc.Models
         public SaleStatus Status { get; set; }
         public Seller Seller { get; set; }
 
-        public SalesRecords(int id, DateTime date, double amount, SaleStatus status, Seller seller)
+        public SalesRecord(int id, DateTime date, double amount, SaleStatus status, Seller seller)
         {
             Id = id;
             Date = date;
@@ -25,6 +25,6 @@ namespace SalesWebMvc.Models
             Seller = seller;
         }
 
-        public SalesRecords() { }
+        public SalesRecord() { }
     }
 }

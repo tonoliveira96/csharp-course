@@ -32,7 +32,7 @@ namespace SalesWebMvc.Models
 
         public Department Department { get; set; }
         public int DepartmentId { get; set; }
-        public ICollection<SalesRecords> Salles { get; set; } = new List<SalesRecords>();
+        public ICollection<SalesRecord> Salles { get; set; } = new List<SalesRecord>();
 
         public Seller(int id, string name, string email, DateTime birthDate, double baseSalary, Department department)
         {
@@ -46,12 +46,12 @@ namespace SalesWebMvc.Models
 
         public Seller() { }
 
-        public void addSales(SalesRecords sr)
+        public void addSales(SalesRecord sr)
         {
             Salles.Add(sr);
         }
 
-        public void remove(SalesRecords sr)
+        public void remove(SalesRecord sr)
         {
             Salles.Remove(sr);
         }
